@@ -38,6 +38,6 @@ This policy may be updated as necessary to reflect changes in how the Bot operat
 
 # Contact Us
 
-For any concerns, questions, or data deletion requests, reach out to the support team via Discord or the official support channel.
+For any concerns, questions, or data deletion requests, reach out to the support team via Discord or the official support channel. server link: https://discord.gg/pjprcRmtmw
 
 By using the Bot, you acknowledge and agree to these Terms of Service and Privacy Policy. Thank you for respecting the rules and helping maintain a fair and fun gaming environment!
